@@ -39,8 +39,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Mateo Domínguez     :octocat:     
- * :bust_in_silhouette:  Aitor Fernández     :octocat:
+ * :bust_in_silhouette:  Mateo Domínguez
+ * :bust_in_silhouette:  Aitor Fernández
 
 ----- 
 
@@ -102,7 +102,7 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
  * Despiertoo:
  * La finca roaster: 
 
-
+[Competitive Analysis](./P1/Competitor Analysis [DIU2.UXplorers].pdf)
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
