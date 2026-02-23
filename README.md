@@ -63,6 +63,33 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
+Somos un grupo de programadores con la idea de analizar los diferentes tipos de actividades que lleva a cabo la empresa "Seda Coffe", como puede
+ser la venta de café de especialidad y servicio de catering. Es importante recalcar la experiencia que ofrece esta empresa, por lo que no debemos
+centrarnos únicamente en la venta de café sino también en la experiencia que involucra toda su elaboración.
+
+Nos centraremos en analizar la interfaz así como la usabilidad de la web, con el fin de aumentar la actividad y mejorar la experiencia del usuario.
+
+Como programadores, hemos creado páginas web para varias empresas del sector centradas en la venta de productos y servicios, que buscan mejorar la
+experiencia del usuario.
+
+Como observadores, contemplamos un aumento en la demanda los servicios de baristas y del consumo de café de especialidad.
+<br>
+>>> Falta el segundo punto "Metodología"
+Analizado el público objetivo de establecimientos similares vemos que hay un patrón que se repite en la mayoría de los usuarios, la mayoría de los
+usuarios se clasifican en:
+ * Clientes de edad avanzada acostumbrada a beber café de una manera más tradicional.
+ * Clientes adultos que buscan nuevas experiencias con respecto al café.
+ * Joven acostumbrado al café tradicional que prueba por primera vez café de especialidad.
+ * Empresas que buscan contentar clientes con un buen café de especialidad.
+ * Futuros matrimonios que buscan ofrecer a sus invitados una experiencia única con café de especialidad
+
+Como usuarios podemos realizar varias operaciones a través de la web como puede ser, compra de café de especialiad y la reserva de servicio
+de catering y , en el establecimiento, disfrutar del servicio de los baristas mientras preparan nuestro café.
+
+Para concluir, profundizaremos las necesidades y comportamiento de los usuarios, mencionados anteriormente, ofreciendo mejoras en el diseño
+y en las estrategias de marketing de la plataforma. Realizaremos varios estudios para evaluar a nivel competitivo la situación de la empresa para
+maximizar sus beneficios.
+
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
