@@ -6,7 +6,8 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
 
 
-
+>>>Borrar esta linea cuando acabemos
+>>>Enlace https://sedacoffee.com/
 
 Actualizado: 14/01/2026
 
