@@ -96,6 +96,12 @@ maximizar sus beneficios.
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+Para poner en perspectiva la empresa hemos seleccionado tres competidores de características muy similares que nos permitirán saber que
+ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas en el mismo entorno. Breve descripción de los competidores:
+ * Cafe 1931: Café barista con un aspecto tropical que destaca con respecto al resto, vende un producto muy similar al de nuestra empresa, carece de sitio para tomar el café.
+ * Despiertoo:
+ * La finca roaster: 
+
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
