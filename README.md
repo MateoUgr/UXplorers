@@ -102,7 +102,7 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
  * Despiertoo:
  * La finca roaster: 
 
-[Competitive Analysis](./P1/Competitor Analysis [DIU2.UXplorers].pdf)
+[Competitive Analysis](./P1/Competitor_Analysis.pdf)
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
