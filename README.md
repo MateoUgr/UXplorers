@@ -109,7 +109,7 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-![Personas](./P1/Persona#2.png)
+![Personas](./P1/Persona #2.png)
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
