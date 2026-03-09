@@ -75,6 +75,7 @@ experiencia del usuario.
 Como observadores, contemplamos un aumento en la demanda los servicios de baristas y del consumo de café de especialidad.
 <br>
 >>> Falta el segundo punto "Metodología"
+
 Analizado el público objetivo de establecimientos similares vemos que hay un patrón que se repite en la mayoría de los usuarios, la mayoría de los
 usuarios se clasifican en:
  * Clientes de edad avanzada acostumbrada a beber café de una manera más tradicional.
