@@ -121,7 +121,7 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
 Journey Map de Cristina:
 ![JourneyMap](./P1/JMPersona1.png)
 Para Cristina, la experiencia en esta cafetería no ha sido la que esperaba. Ella buscaba un sitio con mesas en su interior para tomar un café mientras estudiaba y se ha encontrado que no había información al respecto en la web y cuando ha llegado al local no tenía y era solo café para llevar.
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+ 
 ![JourneyMap](./P1/JMPersona2.png)
 En el caso de José, buscaba una experiencia de sabores única y ha salido bastante contento en este aspecto. Considera que tanto el trato de los baristas, a la hora de narrar lo que iban haciendo para que José pudiera disfrutar de la experiencia igual que el resto, como el sabor de café han sido magníficos. Sin embargo,  su experiencia se ve un poco opacada, al igual que Cristina, por la falta de mesas para poder sentarse a disfrutar el café en compañia o para interactuar con el resto de consumidores. Por último, también considera bastante mejorable la accesibilidad para invidentes pues ha encontrado varias dificultades en su experiencia.
 
