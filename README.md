@@ -118,7 +118,9 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
+Journe Map de Cristina:
+![JourneyMap](./P1/JourneMapP1.png)
+Para Cristina, la experiencia en esta cafetería no ha sido la que esperaba. Ella buscaba un sitio con mesas en su interior para tomar un café mientras estudiaba y se ha encontrado que no había información al respecto en la web y cuando ha llegado al local no tenía y era solo café para llevar.
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
