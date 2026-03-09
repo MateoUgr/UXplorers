@@ -123,6 +123,7 @@ Journey Map de Cristina:
 Para Cristina, la experiencia en esta cafetería no ha sido la que esperaba. Ella buscaba un sitio con mesas en su interior para tomar un café mientras estudiaba y se ha encontrado que no había información al respecto en la web y cuando ha llegado al local no tenía y era solo café para llevar.
  
 ![JourneyMap](./P1/JMPersona2.png)
+
 En el caso de José, buscaba una experiencia de sabores única y ha salido bastante contento en este aspecto. Considera que tanto el trato de los baristas, a la hora de narrar lo que iban haciendo para que José pudiera disfrutar de la experiencia igual que el resto, como el sabor de café han sido magníficos. Sin embargo,  su experiencia se ve un poco opacada, al igual que Cristina, por la falta de mesas para poder sentarse a disfrutar el café en compañia o para interactuar con el resto de consumidores. Por último, también considera bastante mejorable la accesibilidad para invidentes pues ha encontrado varias dificultades en su experiencia.
 
 ### 1.e Usability Review
