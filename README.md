@@ -17,13 +17,6 @@ Actualizado: 14/01/2026
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIU2.UXplorers  Curso: 2025/26 
 
 Nombre del Proyecto: 
@@ -56,25 +49,27 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
-Somos un grupo de programadores con la idea de analizar los diferentes tipos de actividades que lleva a cabo la empresa "Seda Coffe", como puede
+Somos un grupo de programadores con la idea de analizar los diferentes tipos de actividades que lleva a cabo la empresa "Seda Coffee", como puede
 ser la venta de café de especialidad y servicio de catering. Es importante recalcar la experiencia que ofrece esta empresa, por lo que no debemos
 centrarnos únicamente en la venta de café sino también en la experiencia que involucra toda su elaboración.
 
 Nos centraremos en analizar la interfaz así como la usabilidad de la web, con el fin de aumentar la actividad y mejorar la experiencia del usuario.
 
-Como programadores, hemos creado páginas web para varias empresas del sector centradas en la venta de productos y servicios, que buscan mejorar la
-experiencia del usuario.
+Contamos con experiencia previa en el desarrollo de plataformas web para empresas del sector, lo que nos permite abordar este análisis con una perspectiva técnica y orientada al usuario.
 
 Como observadores, contemplamos un aumento en la demanda los servicios de baristas y del consumo de café de especialidad.
 <br>
->>> Falta el segundo punto "Metodología"
+
+Para llevar a cabo esta investigación emplearemos dos métodos principales. En primer lugar, realizaremos un análisis competitivo de webs similares 
+en el sector del café de especialidad, con el objetivo de identificar oportunidades de mejora para la plataforma de Seda Coffee. 
+En segundo lugar, llevaremos a cabo estudios de observación directa en el local, donde estudiaremos el comportamiento de los clientes durante su visita, 
+prestando atención sobre todo a cómo interactúan con el espacio o con el servicio.
+
+<br>
 
 Analizado el público objetivo de establecimientos similares vemos que hay un patrón que se repite en la mayoría de los usuarios, la mayoría de los
 usuarios se clasifican en:
@@ -84,14 +79,19 @@ usuarios se clasifican en:
  * Empresas que buscan contentar clientes con un buen café de especialidad.
  * Futuros matrimonios que buscan ofrecer a sus invitados una experiencia única con café de especialidad
 
-Como usuarios podemos realizar varias operaciones a través de la web como puede ser, compra de café de especialiad y la reserva de servicio
-de catering y , en el establecimiento, disfrutar del servicio de los baristas mientras preparan nuestro café.
+Como usuarios podemos realizar varias operaciones a través de la web como puede ser, compra de café de especialidad y la reserva de servicio
+de catering y en el establecimiento, disfrutar del servicio de los baristas mientras preparan nuestro café.
+
+<br>
+
+La selección de usuarios se realizará mediante visitas presenciales al establecimiento de Seda Coffee en Granada. Durante estas visitas observaremos a 
+los clientes, sin intervenir en su experiencia, lo que nos permitirá obtener datos sobre sus comportamientos y necesidades reales. 
+Buscaremos cubrir los distintos perfiles identificados anteriormente: desde clientes de mayor edad hasta jóvenes que se acercan por primera vez al café de especialidad, 
+pasando por representantes de empresas o parejas interesadas en el servicio de catering.
 
 Para concluir, profundizaremos las necesidades y comportamiento de los usuarios, mencionados anteriormente, ofreciendo mejoras en el diseño
 y en las estrategias de marketing de la plataforma. Realizaremos varios estudios para evaluar a nivel competitivo la situación de la empresa para
 maximizar sus beneficios.
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
