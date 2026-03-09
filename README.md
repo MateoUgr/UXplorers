@@ -5,11 +5,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
 
-
->>>Borrar esta linea cuando acabemos
 >>>Enlace https://sedacoffee.com/
 
-Actualizado: 14/01/2026
+Actualizado: 09/03/2026
 
 
 
@@ -103,7 +101,7 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
  * Despiertoo: Café barista con muy buena ubicación, en el centro de Granada, muy próximo a la catedral lo que podría suponer una ventaja.
  * La finca roaster: Otra opción similar que, además de ofrecer la experiencia de un buen café de especialidad, también ofrece varias opciones llamativas de bollería, que puede ser un factor a tener en cuenta.
 
-[Competitive Analysis](./P1/Competitor_Analysis.pdf)
+![Competitive Analysis](./P1/Competitor_Analysis.pdf)
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
@@ -111,8 +109,9 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
 ![Método UX](img/Persona.png) 
 -----
 ![Personas](./P1/Persona11.png)
+Por un lado tenemos a Cristina, una estudiante que le gusta explorar sabores de café nuevos y encontrar sitios con ambientes cálidos donde poder estudiar mientras disfruta de su café.
 ![Personas](./P1/Persona21.png)
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Y por otro lado tenemos a José, una persona ciega que le gusta maximizar su agudeza con los sabores probando cafés de especialidad de las distintas cafeterías que hay en su ciudad.
 
 
 ### 1.d User Journey Map
@@ -129,10 +128,9 @@ En el caso de José, buscaba una experiencia de sabores única y ha salido basta
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
+*Enlace al documento: [Usability Review](./P1/.pdf)
+*Valoración Obtenido: 72 (Good)
+*Puntos fuertes:
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
