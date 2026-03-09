@@ -101,7 +101,7 @@ Para poner en perspectiva la empresa hemos seleccionado tres competidores de car
 ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas en el mismo entorno. Breve descripción de los competidores:
  * Cafe 1931: Café barista con un toque tropical cuyo aspecto que destaca con respecto al resto, vende un producto muy similar al de nuestra empresa, carece de sitio para tomar el café.
  * Despiertoo: Café barista con muy buena ubicación, en el centro de Granada, muy próximo a la catedral lo que podría suponer una ventaja.
- * La finca roaster: Otra opción similar que además de ofrecer la experiencia de un buen café de especialidad, también ofrece varias opciones llamativas de bollería, que puede ser un factor a tener en cuenta.
+ * La finca roaster: Otra opción similar que, además de ofrecer la experiencia de un buen café de especialidad, también ofrece varias opciones llamativas de bollería, que puede ser un factor a tener en cuenta.
 
 [Competitive Analysis](./P1/Competitor_Analysis.pdf)
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
