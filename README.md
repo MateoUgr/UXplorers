@@ -101,8 +101,11 @@ ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas e
  * Despiertoo: Café barista con muy buena ubicación, en el centro de Granada, muy próximo a la catedral lo que podría suponer una ventaja.
  * La finca roaster: Otra opción similar que, además de ofrecer la experiencia de un buen café de especialidad, también ofrece varias opciones llamativas de bollería, que puede ser un factor a tener en cuenta.
 
-![Competitive Analysis](./P1/Competitor_Analysis.pdf)
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+[Competitive Analysis](./P1/Competitor_Analysis.pdf)
+
+La Finca Roaster parece ser la más completa. Tiene el texto alternativo completo, carece de breadcrumbs, de WCAG y de ayuda contextual, pero contacto en footer dedicado + email, redes y formulario.
+Coffee 1931 contiene texto alternativo incompleto, tiene breadcrumbs, carece de WCAG y de ayuda contextual, contacto solo en footer, email y teléfono.
+Despiertoo contiene texto alternativo incompleto, carece de breadcrumbs, de WCAG y de ayuda contextual, pero contacto en footer dedicado + email, redes y formulario.
 
 
 ### 1.c Personas
@@ -128,10 +131,18 @@ En el caso de José, buscaba una experiencia de sabores única y ha salido basta
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-*Enlace al documento: [Usability Review](./P1/.pdf)
-*Valoración Obtenido: 72 (Good)
-*Puntos fuertes:
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+* Enlace al documento: [Usability Review](./P1/.pdf)
+* Valoración Obtenido: 72 (Good)
+* Puntos fuertes:
+  i.   Facilidad de navegación
+  ii.  Accesibilidad a la hora de comprar sus productos
+  iii. Facilidad de contacto mediante formulario
+  iv.  Diseño atractivo y fácil de usar
+* Puntos débiles:
+  i.   Carencia de imágenes sobre el local
+  ii.  Falta de información sobre los productos que sirven en el local
+  iii. La información específica de los productos carece de imágenes y es escueta
+  iv.  La búsqueda de productos lleva a la malformación de la imagen de dicho producto
 
 <br>
 
