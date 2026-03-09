@@ -134,16 +134,19 @@ En el caso de José, buscaba una experiencia de sabores única y ha salido basta
 * Enlace al documento: [Usability Review](./P1/.pdf)
 * Valoración Obtenido: 72 (Good)
 * Puntos fuertes:
-  i.   Facilidad de navegación
-  ii.  Accesibilidad a la hora de comprar sus productos
-  iii. Facilidad de contacto mediante formulario
-  iv.  Diseño atractivo y fácil de usar
+<ol type="i">
+  <li>Facilidad de navegación</li>
+  <li>Accesibilidad a la hora de comprar sus productos</li>
+  <li>Facilidad de contacto mediante formulario</li>
+  <li>Diseño atractivo y fácil de usar</li>
+</ol>
 * Puntos débiles:
-  i.   Carencia de imágenes sobre el local
-  ii.  Falta de información sobre los productos que sirven en el local
-  iii. La información específica de los productos carece de imágenes y es escueta
-  iv.  La búsqueda de productos lleva a la malformación de la imagen de dicho producto
-
+<ol type="i">
+  <li>Carencia de imágenes sobre el local</li>
+  <li>Falta de información sobre los productos que sirven en el local</li>
+  <li>La información específica de los productos carece de imágenes y es escueta</li>
+  <li>La búsqueda de productos lleva a la malformación de la imagen de dicho producto</li>
+</ol>
 <br>
 
 ## Paso 2. UX Design  
