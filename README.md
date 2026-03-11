@@ -131,7 +131,7 @@ En el caso de José, buscaba una experiencia de sabores única y ha salido basta
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-* Enlace al documento: [Usability Review](./P1/.pdf)
+* Enlace al documento: [Usability Review](./P1/Usability-review-SedaCoffee.pdf)
 * Valoración Obtenido: 72 (Good)
 * Puntos fuertes:
 <ol type="i">
