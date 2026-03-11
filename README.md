@@ -47,7 +47,7 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-### 1.a User Reseach Plan
+### 1.a User Research Plan
 ![Método UX](img/Competitive.png) 
 -----
 
@@ -59,7 +59,7 @@ Nos centraremos en analizar la interfaz así como la usabilidad de la web, con e
 
 Contamos con experiencia previa en el desarrollo de plataformas web para empresas del sector, lo que nos permite abordar este análisis con una perspectiva técnica y orientada al usuario.
 
-Como observadores, contemplamos un aumento en la demanda los servicios de baristas y del consumo de café de especialidad.
+Como observadores, contemplamos un aumento en la demanda de los servicios de baristas y del consumo de café de especialidad.
 <br>
 
 Para llevar a cabo esta investigación emplearemos dos métodos principales. En primer lugar, realizaremos un análisis competitivo de webs similares 
@@ -73,7 +73,7 @@ Analizado el público objetivo de establecimientos similares vemos que hay un pa
 usuarios se clasifican en:
  * Clientes de edad avanzada acostumbrada a beber café de una manera más tradicional.
  * Clientes adultos que buscan nuevas experiencias con respecto al café.
- * Joven acostumbrado al café tradicional que prueba por primera vez café de especialidad.
+ * Jovenes acostumbrados al café tradicional que prueba por primera vez café de especialidad.
  * Empresas que buscan contentar clientes con un buen café de especialidad.
  * Futuros matrimonios que buscan ofrecer a sus invitados una experiencia única con café de especialidad
 
@@ -87,7 +87,7 @@ los clientes, sin intervenir en su experiencia, lo que nos permitirá obtener da
 Buscaremos cubrir los distintos perfiles identificados anteriormente: desde clientes de mayor edad hasta jóvenes que se acercan por primera vez al café de especialidad, 
 pasando por representantes de empresas o parejas interesadas en el servicio de catering.
 
-Para concluir, profundizaremos las necesidades y comportamiento de los usuarios, mencionados anteriormente, ofreciendo mejoras en el diseño
+Para concluir, profundizaremos en las necesidades y comportamiento de los usuarios, mencionados anteriormente, ofreciendo mejoras en el diseño
 y en las estrategias de marketing de la plataforma. Realizaremos varios estudios para evaluar a nivel competitivo la situación de la empresa para
 maximizar sus beneficios.
 
@@ -95,11 +95,11 @@ maximizar sus beneficios.
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-Para poner en perspectiva la empresa hemos seleccionado tres competidores de características muy similares que nos permitirán saber que
+Para poner en perspectiva la empresa hemos seleccionado tres competidores de características muy similares que nos permitirán saber qué
 ventajas y debilidades tiene nuestra empresa con respecto al resto de empresas en el mismo entorno. Breve descripción de los competidores:
- * Cafe 1931: Café barista con un toque tropical cuyo aspecto que destaca con respecto al resto, vende un producto muy similar al de nuestra empresa, carece de sitio para tomar el café.
+ * Cafe 1931: Café barista con un toque tropical cuya apariencia destaca con respecto al resto, vende un producto muy similar al de nuestra empresa, carece de sitio para tomar el café.
  * Despiertoo: Café barista con muy buena ubicación, en el centro de Granada, muy próximo a la catedral lo que podría suponer una ventaja.
- * La finca roaster: Otra opción similar que, además de ofrecer la experiencia de un buen café de especialidad, también ofrece varias opciones llamativas de bollería, que puede ser un factor a tener en cuenta.
+ * La Finca Roaster: Otra opción similar que, además de ofrecer la experiencia de un buen café de especialidad, también ofrece varias opciones llamativas de bollería, que puede ser un factor a tener en cuenta.
 
 [Competitive Analysis](./P1/Competitor_Analysis.pdf)
 
@@ -112,9 +112,9 @@ Despiertoo contiene texto alternativo incompleto, carece de breadcrumbs, de WCAG
 ![Método UX](img/Persona.png) 
 -----
 ![Personas](./P1/Persona11.png)
-Por un lado tenemos a Cristina, una estudiante que le gusta explorar sabores de café nuevos y encontrar sitios con ambientes cálidos donde poder estudiar mientras disfruta de su café.
+Por un lado tenemos a Cristina, una estudiante a la que le gusta explorar sabores de café nuevos y encontrar sitios con ambientes cálidos donde poder estudiar mientras disfruta de su café.
 ![Personas](./P1/Persona21.png)
-Y por otro lado tenemos a José, una persona ciega que le gusta maximizar su agudeza con los sabores probando cafés de especialidad de las distintas cafeterías que hay en su ciudad.
+Y por otro lado tenemos a José, una persona invidente a la que le gusta maximizar su agudeza con los sabores probando cafés de especialidad de las distintas cafeterías que hay en su ciudad.
 
 
 ### 1.d User Journey Map
@@ -126,13 +126,13 @@ Para Cristina, la experiencia en esta cafetería no ha sido la que esperaba. Ell
  
 ![JourneyMap](./P1/JMPersona2.png)
 
-En el caso de José, buscaba una experiencia de sabores única y ha salido bastante contento en este aspecto. Considera que tanto el trato de los baristas, a la hora de narrar lo que iban haciendo para que José pudiera disfrutar de la experiencia igual que el resto, como el sabor de café han sido magníficos. Sin embargo,  su experiencia se ve un poco opacada, al igual que Cristina, por la falta de mesas para poder sentarse a disfrutar el café en compañia o para interactuar con el resto de consumidores. Por último, también considera bastante mejorable la accesibilidad para invidentes pues ha encontrado varias dificultades en su experiencia.
+En el caso de José, buscaba una experiencia de sabores única y ha salido bastante contento en este aspecto. Considera que tanto el trato de los baristas, a la hora de narrar lo que iban haciendo para que José pudiera disfrutar de la experiencia igual que el resto, como el sabor de café han sido magníficos. Sin embargo,  su experiencia se ve un poco opacada, al igual que Cristina, por la falta de mesas para poder sentarse a disfrutar el café en compañía o para interactuar con el resto de consumidores. Por último, también considera bastante mejorable la accesibilidad para invidentes pues ha encontrado varias dificultades en su experiencia.
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 * Enlace al documento: [Usability Review](./P1/Usability-review-SedaCoffee.pdf)
-* Valoración Obtenido: 72 (Good)
+* Valoración Obtenida: 72 (Good)
 * Puntos fuertes:
 <ol type="i">
   <li>Facilidad de navegación</li>
