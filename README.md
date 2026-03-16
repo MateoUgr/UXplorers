@@ -159,7 +159,7 @@ Analizaremos mediante un empathy map cómo se debe rediseñar la web acorde a la
 El empathy map de Cristina García es el siguiente:
 ![EmpathyMap](./P2/EmpathyMap1.png)
 El empathy map de José Estevez es:
-![EmpathyMap](./P2/)
+![EmpathyMap](./P2/EmpathyMap2.png)
 Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el 
 establecimiento.
 <br>
