@@ -164,11 +164,26 @@ El empathy map de José Estevez es:
 
 Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el 
 establecimiento.
-<br>
-Los clientes no encuentras información sobre el ambiente del local, no saben qué cafés pueden pedir para tomar allí, no hay fotos del interior ni ninguna indicación sobre la accesibilidad para personas con discapacidad visual.
+Cristina no encontró información sobre el ambiente del local ni sobre la disponibilidad de mesas interiores. José, por su parte, encontró serias dificultades de accesibilidad tanto para llegar al local como para interactuar con la exposición de productos, que está diseñada de forma muy visual y excluye a personas invidentes.
+Además, ninguno de los dos pudo sentarse a disfrutar el café en compañía, algo que ambos valoraban.
 Todo esto genera visitas incómodas y pérdidad de clientes potenciales.
 <br>
+<br>
 Si rediseñamos la web incorporando contenido que refleje realmente la experiencia en el local, los usuarios llegarán con expectativas reales, tomarán mejores decisiones antes de visitar el establecimiento y será más probable que repitan y recomienden Seda Coffee.
+<br>
+<br>
+La propuesta del nuevo diseño se centra en:
+<ul>
+ <li>Mostrar el ambiente y el interior del local mediante una galería mejor diseñada</li>
+ <li>Ofrecer un catálogo de los cafés disponibles para tomar en el establecimiento</li>
+ <li>Incorporar reseñas de otros usuarios dentro de la propia web</li>
+ <li>Proporcionar información clara y detallada sobre la accesibilidad del local para personas con discapacidad visual</li>
+ <li>Incluir descripciones no visuales de los productos y su elaboración</li>
+ <li>Mejorar la visibilidad del servicio de catering y sus opciones</li>
+</ul>
+<br>
+Con esto buscamos que la web deje de ser un simple escaparate de venta online y se convierta en una herramienta que transmita y prepare al usuario para la experiencia que Seda Coffee ofrece.
+
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
