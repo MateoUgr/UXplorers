@@ -151,12 +151,15 @@ En el caso de José, buscaba una experiencia de sabores única y ha salido basta
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
+Analizaremos mediante un empathy map cómo se debe rediseñar la web acorde a la opinión de nuestras dos personas.
+<br>
+El empathy map de Cristina García es el siguiente:
+![EmpathyMap](.P2/Empathy_Map1.png)
+El empathy map de José Estevez es:
+![EmpathyMap](./P2/)
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
