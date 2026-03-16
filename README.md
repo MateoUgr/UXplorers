@@ -160,17 +160,13 @@ El empathy map de Cristina García es el siguiente:
 ![EmpathyMap](./P2/EmpathyMap1.png)
 El empathy map de José Estevez es:
 ![EmpathyMap](./P2/)
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el 
+establecimiento.
+<br>
+Los clientes no encuentras información sobre el ambiente del local, no saben qué cafés pueden pedir para tomar allí, no hay fotos del interior ni ninguna indicación sobre la accesibilidad para personas con discapacidad visual.
+Todo esto genera visitas incómodas y pérdidad de clientes potenciales.
+<br>
+Si rediseñamos la web incorporando contenido que refleje realmente la experiencia en el local, los usuarios llegarán con expectativas reales, tomarán mejores decisiones antes de visitar el establecimiento y será más probable que repitan y recomienden Seda Coffee.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
