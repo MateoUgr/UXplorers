@@ -188,10 +188,8 @@ Con esto buscamos que la web deje de ser un simple escaparate de venta online y 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+Seda Coffee propone una experiencia de café de especialidad accesible, sensorial y conectada con la cultura cafetera. A través de sus baristas y la calidad de sus productos, busca sorprender a cada cliente con nuevos sabores y aromas mientras conoce la historia detrás de cada café. Nuestro objetivo es rediseñar la experiencia digital para que refleje fielmente lo que el local ofrece, mejorando la información sobre el establecimiento, incorporando reseñas de usuarios, visibilizando el catálogo de cafés disponibles para consumir en el local y garantizando la accesibilidad para personas con cualquier discapacidad.
+![ScopeCanvas](./P2/ScopeCanvas.png)
 
 
 ### 2.b User Flow (task) analysis 
