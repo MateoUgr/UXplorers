@@ -211,7 +211,10 @@ Seda Coffee propone una experiencia de café de especialidad accesible, sensoria
 > **Nota:** Valores usados según prioridad del usuario o relevancia para los distintos usuarios que visitan la web: Alta / Media / Baja / - (no tiene acceso).
 
 <br>
-A partir de la tabla User/Task generamos las siguientes task flows, centrándonos en las tres características más importantes de la web como son la compra de productos
+A partir de la tabla User/Task generamos las siguientes task flows, centrándonos en las tres características más importantes de la web como son la compra de productos, la reserva para catering o el formulario de contacto.
+Empezamos con la compra de productos:
+![TaskFlow](./P2/TaskFlowCompra.png)
+
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
