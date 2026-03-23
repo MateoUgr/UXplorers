@@ -197,12 +197,12 @@ Seda Coffee propone una experiencia de café de especialidad accesible, sensoria
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-| Usuarios | Compradores     | Usuarios catering  |   Administradores   |
-| ------------- | -------- | ----------- | ----------- |
-| User1's name  | H / 18   | Estudiante  | Media       |
-| User2's name  | H / 18   | Estudiante  | Media       | 
-| User3's name  | M / 35   | Abogado     | Baja        |
-| User4's name  | H / 18   | Estudiante  | Media       |
+| Usuarios | Compradores | Usuarios catering | Administradores |
+| :--- | :--- | :--- | :--- |
+| User1's name | H / 18 | Estudiante | Media |
+| User2's name | H / 18 | Estudiante | Media |
+| User3's name | M / 35 | Abogado | Baja |
+| User4's name | H / 18 | Estudiante | Media |
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
