@@ -189,7 +189,7 @@ Con esto buscamos que la web deje de ser un simple escaparate de venta online y 
 ![Método UX](img/ScopeCanvas.png)
 ----
 Seda Coffee propone una experiencia de café de especialidad accesible, sensorial y conectada con la cultura cafetera. A través de sus baristas y la calidad de sus productos, busca sorprender a cada cliente con nuevos sabores y aromas mientras conoce la historia detrás de cada café. Nuestro objetivo es rediseñar la experiencia digital para que refleje fielmente lo que el local ofrece, mejorando la información sobre el establecimiento, incorporando reseñas de usuarios, visibilizando el catálogo de cafés disponibles para consumir en el local y garantizando la accesibilidad para personas con cualquier discapacidad.
-![ScopeCanvas](./P2/ScopeCanvas.png)
+![ScopeCanvas](./P2/ScopeCanvas.pdf)
 
 
 ### 2.b User Flow (task) analysis 
