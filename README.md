@@ -210,6 +210,7 @@ Seda Coffee propone una experiencia de café de especialidad accesible, sensoria
 | Añadir dirección de facturación | Alta | Baja | Baja |
 | Cancelar compra | Alta | Media | Baja |
 | Contactar con la empresa | Media | Alta | Baja |
+> **Nota:** Valores usados según prioridad del usuario o relevancia para los distintos usuarios que visitan la web: Alta / Media / Baja / - (no tiene acceso).
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
