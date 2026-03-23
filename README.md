@@ -272,6 +272,8 @@ Término | Significado
 
 
 
+
+
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
