@@ -154,13 +154,10 @@ En el caso de José, buscaba una experiencia de sabores única y ha salido basta
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-Analizaremos mediante un empathy map cómo se debe rediseñar la web acorde a la opinión de nuestras dos personas.
+Analizaremos mediante un empathy map cómo se debe rediseñar la web acorde a los pensamientos, observaciones y forma de actuar de un usuario promedio de SedaCofee.
 <br>
-El empathy map de Cristina García es el siguiente:
-![EmpathyMap](./P2/EmpathyMap1.png)
-El empathy map de José Estevez es:
 
-![EmpathyMap](./P2/EmpathyMap2.png)
+![EmpathyMap](./P2/EmpathyMap.png)
 
 Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el 
 establecimiento.
