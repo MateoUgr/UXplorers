@@ -159,9 +159,9 @@ Analizaremos mediante un empathy map cómo se debe rediseñar la web acorde a lo
 
 ![EmpathyMap](./P2/EmpathyMap.png)
 
-Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el establecimiento. <br>
-El local cumple en lo que se refiere a la profesionalidad, una calidad del café increible y una amplia variedad de cafés que invitan al usuario a no conformarse con probar uno, si no, periódicamente ir experimentando nuevos sabores. <br>
-Entre las cosas que arruinan la experiencia encontramos varios puntos como, por ejemplo, no se muestra claramente el local por fuera por lo que no sabemos si dispone de terraza o si no se puede tomar el café en el establecimiento. Tampoco se especifica el precio de los cafés que se sirven en el establecimiento, solo aparece el precio de comprar el café para que lo preparen los propios usuarios. <br>
+Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el establecimiento. <br><br>
+El local cumple en lo que se refiere a la profesionalidad, una calidad del café increible y una amplia variedad de cafés que invitan al usuario a no conformarse con probar uno, si no, periódicamente ir experimentando nuevos sabores. <br><br>
+Entre las cosas que arruinan la experiencia encontramos varios puntos como, por ejemplo, no se muestra claramente el local por fuera por lo que no sabemos si dispone de terraza o si no se puede tomar el café en el establecimiento. Tampoco se especifica el precio de los cafés que se sirven en el establecimiento, solo aparece el precio de comprar el café para que lo preparen los propios usuarios. <br><br>
 Por último, cabe recalcar la poca accesibilidad del sitio pues no encontramos una forma sencilla de acceder (solo contemplamos escaleras desde la web) y uno de los puntos más importantes del local es su aparencia, lo que incluye la exposición de los tipos de cafés de los que disponen, que tampoco es muy apreciable por personas con problemas de visibilidad por ejemplo. Por o
 Todo esto genera visitas incómodas y pérdidad de clientes potenciales.
 <br>
