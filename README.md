@@ -196,12 +196,20 @@ Seda Coffee propone una experiencia de café de especialidad accesible, sensoria
 ![Método UX](img/Sitemap.png) 
 -----
 
-| Usuarios | Compradores | Usuarios catering | Administradores |
+| Acción | Compradores | Usuarios catering | Administradores |
 | :--- | :--- | :--- | :--- |
-| User1's name | H / 18 | Estudiante | Media |
-| User2's name | H / 18 | Estudiante | Media |
-| User3's name | M / 35 | Abogado | Baja |
-| User4's name | H / 18 | Estudiante | Media |
+| Iniciar sesión | - | - | - |
+| Cerrar sesión | - | - | - |
+| Registrarse | - | - | - |
+| Buscar productos | Alta | Alta | Alta |
+| Comprar productos | Alta | Media | Baja |
+| Dejar comentarios | - | - | - |
+| Reservas para eventos | Baja | Alta | Baja |
+| Ir al carrito | Alta | Media | Baja |
+| Añadir al carrito | Alta | Baja | Baja |
+| Añadir dirección de facturación | Alta | Baja | Baja |
+| Cancelar compra | Alta | Media | Baja |
+| Contactar con la empresa | Media | Alta | Baja |
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
