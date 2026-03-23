@@ -159,10 +159,7 @@ Analizaremos mediante un empathy map cómo se debe rediseñar la web acorde a lo
 
 ![EmpathyMap](./P2/EmpathyMap.png)
 
-Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el 
-establecimiento.
-Cristina no encontró información sobre el ambiente del local ni sobre la disponibilidad de mesas interiores. José, por su parte, encontró serias dificultades de accesibilidad tanto para llegar al local como para interactuar con la exposición de productos, que está diseñada de forma muy visual y excluye a personas invidentes.
-Además, ninguno de los dos pudo sentarse a disfrutar el café en compañía, algo que ambos valoraban.
+Tras analizar la experiencia de los usuarios con la plataforma de Seda Coffee, hemos detectado que la web no refleja adecuadamente la experiencia presencial que ofrece el establecimiento. El local cumple en lo que se refiere a la profesionalidad, una calidad del café increible y una amplia variedad de cafés que invitan al usuario a no conformarse con probar uno, si no, periódicamente ir experimentando nuevos sabores. Entre las cosas que arruinan la experiencia encontramos varios puntos como, por ejemplo, no se muestra claramente el local por fuera por lo que no sabemos si dispone de terraza o si no se puede tomar el café en el establecimiento. Tampoco se especifica el precio de los cafés que se sirven en el establecimiento, solo aparece el precio de comprar el café para que lo preparen los propios usuarios. Por último, cabe recalcar la poca accesibilidad del sitio pues no encontramos una forma sencilla de acceder (solo contemplamos escaleras desde la web) y uno de los puntos más importantes del local es su aparencia, lo que incluye la exposición de los tipos de cafés de los que disponen, que tampoco es muy apreciable por personas con problemas de visibilidad por ejemplo. Por o
 Todo esto genera visitas incómodas y pérdidad de clientes potenciales.
 <br>
 <br>
@@ -172,11 +169,12 @@ Si rediseñamos la web incorporando contenido que refleje realmente la experienc
 La propuesta del nuevo diseño se centra en:
 <ul>
  <li>Mostrar el ambiente y el interior del local mediante una galería mejor diseñada</li>
- <li>Ofrecer un catálogo de los cafés disponibles para tomar en el establecimiento</li>
+ <li>Ofrecer un catálogo de los cafés disponibles para tomar en el establecimiento junto a su precio</li>
  <li>Incorporar reseñas de otros usuarios dentro de la propia web</li>
- <li>Proporcionar información clara y detallada sobre la accesibilidad del local para personas con discapacidad visual</li>
+ <li>Proporcionar información clara y detallada sobre la accesibilidad del local para personas con cualquier tipo de discapacidad</li>
  <li>Incluir descripciones no visuales de los productos y su elaboración</li>
  <li>Mejorar la visibilidad del servicio de catering y sus opciones</li>
+ <li>Ofrecer la opción de registrar usuarios para almacenar sus preferencias, compras recientes, entre otros datos increiblemente útiles</li>
 </ul>
 <br>
 Con esto buscamos que la web deje de ser un simple escaparate de venta online y se convierta en una herramienta que transmita y prepare al usuario para la experiencia que Seda Coffee ofrece.
