@@ -217,6 +217,8 @@ A partir de la tabla User/Task generamos las siguientes task flows, centrándono
 
 Para la reserva de catering tenemos:
 
+![Task Flow](./P2/TaskFlowEvento.png)
+
 Y para contactar con la empresa mediante formulario de contacto:
 ![Task Flow](./P2/TaskFlowContacto.png)
 
