@@ -237,14 +237,24 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 Bocetos realizados en tablet:
- - [Boceto](./P2/Boceto1.jpg)
- - [Boceto](./P2/Boceto2.jpg)
- - [Boceto](./P2/Boceto3.jpg)
+ - [Boceto Inicio](./P2/Boceto1.jpg)
+ - [Boceto Tienda](./P2/Boceto2.jpg)
+ - [Boceto Eventos](./P2/Boceto3.jpg)
 
-1. Vista general y en móvil de la pantalla inicio
+1. Vista general y en móvil de la sección "Inicio"
    <p>
-     <img src="./P2/Wirefram1.png" witdh="45%" />
-     <img src="./P2/Wirefram1.png" witdh="45%" />
+     <img src="./P2/Wireframe1.png" witdh="45%" />
+     <img src="./P2/Wireframe1_R.png" witdh="45%" />
+   </p>
+2. Vista general y en móvil de la sección "Tienda"
+   <p>
+     <img src="./P2/Wireframe2.png" witdh="45%" />
+     <img src="./P2/Wireframe2_R.png" witdh="45%" />
+   </p>
+3. Vista general y en móvil de la sección "Eventos"
+   <p>
+     <img src="./P2/Wireframe3.png" witdh="45%" />
+     <img src="./P2/Wireframe3_R.png" witdh="45%" />
    </p>
 
 <br>
