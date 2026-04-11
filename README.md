@@ -236,8 +236,12 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Bocetos realizados en tablet:
+<ul>
+ <li>![Boceto](./P2/Boceto1.jpg)</li>
+ <li>![Boceto](./P2/Boceto2.jpg)</li>
+ <li>![Boceto](./P2/Boceto3.jpg)</li>
+</ul> 
 
 <br>
 
