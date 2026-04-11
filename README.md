@@ -242,10 +242,7 @@ Bocetos realizados en tablet:
  - [Boceto Eventos](./P2/Boceto3.jpg)
 
 1. Vista general y en móvil de la sección "Inicio"
-   <p>
-     <img src="./P2/Wireframe1.png" witdh="20%" />
-     <img src="./P2/Wireframe1_R.png" witdh="20%" />
-   </p>
+   ![](./P2/Wireframe1.png) | ![](./P2/Wireframe1_R.png)
 2. Vista general y en móvil de la sección "Tienda"
    <p>
      <img src="./P2/Wireframe2.png" witdh="20%" />
