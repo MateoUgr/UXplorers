@@ -242,6 +242,8 @@ Bocetos realizados en tablet:
  - [Boceto Eventos](./P2/Boceto3.jpg)
 
 1. Vista general y en móvil de la sección "Inicio"
+| Escritorio | Móvil |
+|------------|--------|
 | ![](./P2/Wireframe1.png) | ![](./P2/Wireframe1_R.png) |
 2. Vista general y en móvil de la sección "Tienda"
    <p>
