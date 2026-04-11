@@ -236,6 +236,12 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+Como parte del proceso de diseño, la creación de wireframes es fundamental para definir una estructura y organización temprana de la interfaz antes de su desarrollo. Estos bocetos nos permiten ver de manera clara la disposición de los elementos, facilitándonos la detección de posibles mejoras.
+<br>
+Los wireframes nos ayudan a centrarnos en la funcionalidad y en la experiencia del usuario, dejando en segundo plano los aspectos visuales más detallados.
+
+<br>
+
 Bocetos realizados en tablet:
  - [Boceto Inicio](./P2/Boceto1.jpg)
  - [Boceto Tienda](./P2/Boceto2.jpg)
