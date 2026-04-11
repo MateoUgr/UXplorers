@@ -226,7 +226,12 @@ Y para contactar con la empresa mediante formulario de contacto:
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+>>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
+>>>
+La navegación que hemos realizado para la mejora de la página actual tiene el siguiente esquema:
+
+![Task Flow](./P2/sitemap.png)
+
 
 Término | Significado     
 | ------------- | -------
