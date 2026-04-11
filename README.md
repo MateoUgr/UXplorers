@@ -243,20 +243,20 @@ Bocetos realizados en tablet:
 
 1. Vista general y en móvil de la sección "Inicio"
 <p>
-  <img src="./P2/Wireframe1.png" width="45%" />
-  <img src="./P2/Wireframe1_R.png" width="45%" />
+  <img src="./P2/Wireframe1.png" width="55%" />
+  <img src="./P2/Wireframe1_R.png" width="35%" />
 </p>
 
 2. Vista general y en móvil de la sección "Tienda"
 <p>
-  <img src="./P2/Wireframe2.png" width="45%" />
-  <img src="./P2/Wireframe2_R.png" width="45%" />
+  <img src="./P2/Wireframe2.png" width="55%" />
+  <img src="./P2/Wireframe2_R.png" width="35%" />
 </p>
 
 3. Vista general y en móvil de la sección "Eventos"
 <p>
-  <img src="./P2/Wireframe3.png" width="45%" />
-  <img src="./P2/Wireframe3_R.png" width="45%" />
+  <img src="./P2/Wireframe3.png" width="55%" />
+  <img src="./P2/Wireframe3_R.png" width="35%" />
 </p>
 
 <br>
