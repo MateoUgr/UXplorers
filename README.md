@@ -235,11 +235,9 @@ La navegación que hemos realizado para la mejora de la página actual tiene el 
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
-| ------------- | -------
-  Login  | acceder a plataforma
-| ------------- | -------
-  Login  | acceder a plataforma
+  Página de incio  | Punto de entrada principal a la web con acceso a todas las secciones
+  Nosotros/Cafetería  | Sección dedicada a la información sobre el local físico y la entidad de la empresa
+  Ubicación  | Muestra la dirección exacta del establecimiento y cómo llegar a él
 | ------------- | -------
   Login  | acceder a plataforma
 
