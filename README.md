@@ -236,6 +236,12 @@ La navegación que hemos realizado para la mejora de la página actual tiene el 
 Término | Significado     
 | ------------- | -------
   Login  | acceder a plataforma
+| ------------- | -------
+  Login  | acceder a plataforma
+| ------------- | -------
+  Login  | acceder a plataforma
+| ------------- | -------
+  Login  | acceder a plataforma
 
 
 ### 2.d Wireframes
