@@ -235,14 +235,14 @@ La navegación que hemos realizado para la mejora de la página actual tiene el 
 
 Término | Significado     
 | ------------- | -------
-  Página de incio  | Punto de entrada principal a la web con acceso a todas las secciones.
-  Nosotros/Cafetería  | Sección dedicada a la información sobre el local físico y la entidad de la empresa.
-  Ubicación  | Muestra la dirección exacta del establecimiento y cómo llegar a él.
+  🏠**Página de incio**  | Punto de entrada principal a la web con acceso a todas las secciones.
+  ☕**Nosotros/Cafetería**  | Sección dedicada a la información sobre el local físico y la entidad de la empresa.
+  📍Ubicación  | Muestra la dirección exacta del establecimiento y cómo llegar a él.
   Carta  | Muestra el menú detallado de los tipos de cafés disponibles en la web y en la tienda.
   Fotos descriptivas del local  | Galería de imágenes que muestran el ambiente, decoración y todas las partes del local.
   Opiniones de los usuarios | En esta sección aparecen reseñas, comentarios y valoraciones de los clientes.
   Tienda online | Espacio para poder adquirir productos físicos relacionados con el café.
-  Tazas térmicas  | Categoría de la tienda para adquirir maquinas o herramientas de preparación de café.
+  Tazas térmicas  | Categoría de la tienda para la compra de vasos y tazas que mantienen la temperatura.
   Cafeteras  | Categoría de la tienda para adquirir máquinas o herramientas de preparación de café.
   Café de especialidad  | Categoría de la tienda para la compra de diferentes variedades de granos de café de alta calidad.
   Tarjetas regalo  | Opción para adquirir tarjetas prepago para regalar a otros usuarios.
@@ -259,7 +259,7 @@ Término | Significado
   Seguir comprando  | Opción para salir de la vista del carrito y volver a navegar por la tienda para añadir más productos.
   Ver carrito  | Pantalla para revisar en detalle los artículos añadidos, modificar cantidades y ver el subtotal.
   Finalizar compra  | Proceso de checkout donde se recogen los datos de envío y facturación para confirmar el pedido.
-  Aplciar cupón  | Campo dentro del proceso de compra para introducir códigos de descuento o promociones.
+  Aplicar cupón  | Campo dentro del proceso de compra para introducir códigos de descuento o promociones.
   Pagar | Acción y pasarela final para procesar la transacción económica del pedido.
   Inicio de sesión/ registro  | Área para que los usuarios accedan a su cuenta personal o creen una nueva si no tienen una.
   Consultar Historial  | Funcionalidad del perfil del usuario para ver sus pedidos, reservas o compras anteriores.
