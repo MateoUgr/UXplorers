@@ -19,11 +19,19 @@ Grupo: DIU2.UXplorers  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Seda Coffee 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Seda Coffe es una cafetería de especialidad en Granada donde el café se trata como un arte. Seleccionamos granos de origen único y trabajamos con tostadores de calidad para ofrecer tazas equilibradas, aromáticas y llenas de matices.
+
+<br>
+
+Nuestro espacio combina tradición y modernidad, inspirado en la esencia de la ciudad: un lugar acogedor donde disfrutar desde un espresso perfectamente extraído hasta métodos filtrados como V60 o Chemex. Cada detalle está cuidado, desde la molienda hasta la presentación, para que vivas una experiencia completa.
+
+<br>
+
+Seda Coffee no es solo una cafetería, es un punto de encuentro para quienes valoran el buen café, la calma y el gusto por los pequeños placeres.
 
 Logotipo: 
 
