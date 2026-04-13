@@ -300,6 +300,10 @@ Bocetos realizados en tablet:
 
 <br>
 
+Diseñar una página con gancho, que no se parezca a la original. Hay mucha información y hay que guiar al cliente y "engatusarlo".
+
+<br>
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
