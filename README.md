@@ -330,7 +330,7 @@ Diseñar una página con gancho, que no se parezca a la original. Hay mucha info
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+>>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard. Esto no se hace creo
 
 
 ### 3.c Guidelines
