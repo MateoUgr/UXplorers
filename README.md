@@ -322,7 +322,7 @@ Diseñar una página con gancho, que no se parezca a la original. Hay mucha info
 -----
 En esta guía de estilos visual hemos querido representar lo más esencial de la empresa integrando a su vez las mejoras que aplicamos en nuestro rediseño. Mostramos un nuevo logotipo que le ofrece presencia a la marca y representa mejor el café de especialidad en Granada. 
 
-![MoodBoard](./P3/MoodBoard SedaCoffee UXPlorers.png)
+![MoodBoard](./P3/MoodBoard_SedaCoffee_UXPlorers.png)
 
 Aquí va una vista más detallada del nuevo logotipo:
 
