@@ -320,6 +320,13 @@ Diseñar una página con gancho, que no se parezca a la original. Hay mucha info
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+En esta guía de estilos visual hemos querido representar lo más esencial de la empresa integrando a su vez las mejoras que aplicamos en nuestro rediseño. Mostramos un nuevo logotipo que le ofrece presencia a la marca y representa mejor el café de especialidad en Granada. 
+
+![MoodBoard](./P3/MoodBoard SedaCoffee UXPlorers.png)
+
+Aquí va una vista más detallada del nuevo logotipo:
+
+![Logotipo](./P3/Nuevo_Logo_SedaCoffee.png)
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
