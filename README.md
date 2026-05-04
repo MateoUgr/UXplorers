@@ -344,9 +344,101 @@ Aquí va una vista más detallada del nuevo logotipo:
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Este documento define los principios de diseño, sistema visual y patrones UX/UI para el desarrollo del producto web y móvil de Seda Coffee.
+<br>
+El objetivo es garantizar la consistencia, accesibilidad y coherencia con la identidad de marca en todas las interfaces.
+<br>
+* Principios de diseño
+<ol>
+ <li><b>Calidez:</b> Interfaces que evocan la experiencia física de la cafetería como luz cálida, materiales naturales o espacios amplios.</li>
+ <li><b>Elegancia sin exceso:</b> Diseño limpio, evitando sobrecarga visual.</li>
+ <li><b>Rapidez y claridad:</b> El usuario debe completar acciones clave de forma eficiente como comprar en menos de 3 clics o reservar en menos de 1 minuto</li>
+ <li><b>Accesibilidad first:</b> Cumplir con el estándar para la accesibilidad web.</li>
+</ol>
 
+<br>
+
+* Sistema de color
+
+Color | Uso
+| ------------- | -------------
+#4B2E1E | Botones, enlaces o elementos clave.
+#D88A2F | Highlights.
+#F5EFE6 | Fondos secundarios o Cards.
+#FAFAFA | Fondo principal.
+#1A1A1A | Texto principal.
+#6B6B6B | Texto secundario.
+
+<br>
+
+* Estados
+  
+Estado | Color
+| ------------- | -------------
+Hover | #3A2316
+Active | #2A190F
+Disabled | #C7C7C7
+
+<br>
+
+* Tipografía
+
+<b>Familias</b>
+<ul>
+ <li>Serif -> Títulos</li>
+ <li>Sans-serif -> Texto</li>
+</ul>
+
+<br>
+
+* Patrones UX
+
+<b>Hero</b>
+<ul>
+ <li>Imagen emocional</li>
+ <li>Mensaje claro</li>
+</ul>
+<hr>
+<b>Checkout</b>
+Flujo de pasos:
+<ol>
+ <li>Carrito</li>
+ <li>Envío</li>
+ <li>Pago</li>
+ <li>Confirmación</li>
+</ol>
+<hr>
+<b>Filtros</b>
+<ul>
+ <li>Desktop: sidebar</li>
+ <li>Mobile: modal</li>
+</ul>
+Filtros:
+<ul>
+ <li>Origen</li>
+ <li>Proceso</li>
+ <li>Notas de cata</li>
+</ul>
+<hr>
+<b>Búsqueda</b>
+<ul>
+ <li>Global</li>
+ <li>Autocompletado</li>
+</ul>
+<hr>
+<b>Estilo visual</b>
+<ul>
+ <li>Iluminación cálida</li>
+ <li>Materiales naturales</li>
+ <li>Fotografía realista</li>
+ <li>Planos cerrados y detalles</li>
+</ul>
+<hr>
+<b>Tono de marca</b>
+<ul>
+ <li>Cercano y sensorial</li>
+ <li>Enfocado en la experiencia</li>
+</ul>
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
