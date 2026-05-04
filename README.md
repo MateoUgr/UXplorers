@@ -398,7 +398,7 @@ Disabled | #C7C7C7
  <li>Imagen emocional</li>
  <li>Mensaje claro</li>
 </ul>
-<hr>
+
 <b>Checkout</b>
 Flujo de pasos:
 <ol>
@@ -407,7 +407,7 @@ Flujo de pasos:
  <li>Pago</li>
  <li>Confirmación</li>
 </ol>
-<hr>
+
 <b>Filtros</b>
 <ul>
  <li>Desktop: sidebar</li>
@@ -419,13 +419,13 @@ Filtros:
  <li>Proceso</li>
  <li>Notas de cata</li>
 </ul>
-<hr>
+
 <b>Búsqueda</b>
 <ul>
  <li>Global</li>
  <li>Autocompletado</li>
 </ul>
-<hr>
+
 <b>Estilo visual</b>
 <ul>
  <li>Iluminación cálida</li>
@@ -433,7 +433,7 @@ Filtros:
  <li>Fotografía realista</li>
  <li>Planos cerrados y detalles</li>
 </ul>
-<hr>
+
 <b>Tono de marca</b>
 <ul>
  <li>Cercano y sensorial</li>
