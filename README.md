@@ -343,6 +343,7 @@ Aquí va una vista más detallada del nuevo logotipo:
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
+Muestra de nuestro guideline: ![Guideline](./P3/guideline.png)
 
 Este documento define los principios de diseño, sistema visual y patrones UX/UI para el desarrollo del producto web y móvil de Seda Coffee.
 <br>
