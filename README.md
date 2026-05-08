@@ -441,6 +441,11 @@ Filtros:
  <li>Enfocado en la experiencia</li>
 </ul>
 
+<br>
+
+<b>Ejemplo de la portada</b/
+![Portada](./P3/guideline1.png)
+
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
