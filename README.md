@@ -441,16 +441,14 @@ Filtros:
  <li>Enfocado en la experiencia</li>
 </ul>
 
-<br>
-
-<b>Ejemplo de la portada</b/
-![Portada](./P3/guideline1.png)
-
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+<b>Ejemplo de la portada para web</b/
+![Portada](./P3/guideline1.png)
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+<br>
+En el siguiente [enlace](https://www.figma.com/proto/mRYTFYM7GTyf8JMVVdUxKA/Mockup-P3?node-id=12-303&p=f&t=fqYEyBCFQWNK1bdo-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) se podrá navegar sobre nuestro mockup para móvil de SEDA COFFEE.
 
 
 <br>
