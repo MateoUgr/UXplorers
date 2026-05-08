@@ -444,11 +444,11 @@ Filtros:
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-<b>Ejemplo de la portada para web</b/
+<b>Ejemplo de la portada para web</b>
 ![Portada](./P3/guideline1.png)
 
 <br>
-En el siguiente [enlace](https://www.figma.com/proto/mRYTFYM7GTyf8JMVVdUxKA/Mockup-P3?node-id=12-303&p=f&t=fqYEyBCFQWNK1bdo-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) se podrá navegar sobre nuestro mockup para móvil de SEDA COFFEE.
+En el siguiente [enlace](https://www.figma.com/proto/mRYTFYM7GTyf8JMVVdUxKA/Mockup-P3?node-id=12-303&p=f&t=fqYEyBCFQWNK1bdo-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) podrás navegar sobre nuestro mockup para móvil de SEDA COFFEE.
 
 
 <br>
