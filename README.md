@@ -535,9 +535,6 @@ Para pasar nuestro diseño de MockUp a una página en la que los botones y enlac
 
 Enlace a nuestra web principal con Html/React: https://gum-flock-54185611.figma.site/
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
 ----
