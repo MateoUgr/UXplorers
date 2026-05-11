@@ -531,6 +531,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 5.a Exportación a HTML/React
 ![Método UX](img/usabilityReview.png) 
 ----
+Para pasar nuestro diseño de MockUp a una página en la que los botones y enlaces, entre otros elementos, reaccionen a la acción del usuario, utilizamos la herremienta Figma Make que nos permitió pasar nuestro MockUp a Html/React con el formato que buscábamos para que los distintos elementos reaccionen correctamente ante la acción del usuario. También conseguimos que la web sea "responsive" para que los elementos se adapten al tamaño de la ventana correctamente y siguiendo una armonía, mejorando así el paso de los usuarios por nuestra web.
+
 
 >>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
 
@@ -539,7 +541,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usabilityReview.png)
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+>>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/ (No se hace)
 
 
 <br>
