@@ -517,7 +517,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 Para que nuestros usuarios puedan realizar esta prueba sobre nuestra web (el caso A) y la web de los compañeros (caso B), vamos a utilizar GazeMapping que es una herramienta que permite evaluar el seguimiento ocular sobre elementos visuales estáticos como lo son los elementos de las webs a analizar.
 
 Este análisis nos servirá para analizar en profundidad si los usuarios se fijan visualmente en las partes que hemos querido resaltar. Estas partes son nuestras Zonas de Interés (POI) que describimos a continuación:
-(POIS)
+Para el caso A hemos definido los puntos de interés centrándonos en los apartados esenciales de nuestra web:
+O1 - Localizar la carta de productos de SedaCoffee.
+O2 - Acceder al servicio de catering
+O3 - 
+O4 -
+O5 -
 
 Para realizar este apartado fue necesario instalar GazeMapping localmente, convertir nuestras páginas principales y las del caso B con FireShot para poder importarlas en la herramienta. 
 
