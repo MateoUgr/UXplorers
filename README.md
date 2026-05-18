@@ -463,13 +463,13 @@ En el siguiente [enlace](https://www.figma.com/proto/mRYTFYM7GTyf8JMVVdUxKA/Mock
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
-El caso B que se nos ha asignado, "Pogo Ramen", es un restaurante de comida estilo "poke" y ramen donde el principal atractivo es su fuerte vinculación con el universo Pokémon. Los clientes crean sus platos formando su "equipo de 6", los 6 ingredientes que se pueden elegir están representados por Pokémons. También hay una serie de menús predefinidos inspirados en entrenadores míticos de la saga. 
+El caso B que se nos ha asignado, "Rakuin Ramen", es un restaurante de ramen tradicional inspirado en el anime "Seinen" (un género de anime dirigido a un público más adulto, con estética sobria y tramas maduras). Busca alejarse por completo de la estética chillona e infantil que presentan los locales otakus tradicionales.
 
-A la hora de realizar los pedidos, también se intenta que sea lo más inmersivo posible para que acompañe a toda la experiencia. Para ello, los pedidos se hacen a través de pantallas automáticas diseñadas para que parezcan un "PC Pokémon" (el clásico ordenador de los juegos).
+Para diferenciarse de su competencia, que presentan aglromeraciones y "gimmicks" tecnológicos (como robots camareros, Raikun Ramen apuesta por la tranquilidad. Limitan el aforo para garantizar el espacio personal de ccada cliente y ofrecen un servicio humano, cercano y tradicional.
 
-Por último, utilizan un sistema de recompensas en forma de "tarjeta de entrenador". Con cada visita, el cliente consigue una "medalla de gimnasio" y, al reunir 8 medallas (como en los videojuegos de la saga), recibe un entrante gratis.
+Por último, cabe destacar que su principal propuesta de valor a nivel de diseño es la inclusión. Desarrollan un sistema web pensado para todos: colores aptos para personas con daltonismo, una carta con filtros muy claros para alérgenos y un sistema de reservas online fácil e intuitivo.
 
-Enlace al repositorio del caso B, Pogo Ramen: [Repositorio Caso B](https://github.com/Mercenari23/UX_CaseStudy/tree/master)
+Enlace al repositorio del caso B, : [Repositorio Caso B](https://github.com/RVR05/UX_CaseStudy/tree/master)
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
