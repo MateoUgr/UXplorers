@@ -463,8 +463,13 @@ En el siguiente [enlace](https://www.figma.com/proto/mRYTFYM7GTyf8JMVVdUxKA/Mock
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
+El caso B que se nos ha asignado, "Pogo Ramen", es un restaurante de comida estilo "poke" y ramen donde el principal atractivo es su fuerte vinculación con el universo Pokémon. Los clientes crean sus platos formando su "equipo de 6", los 6 ingredientes que se pueden elegir están representados por Pokémons. También hay una serie de menús predefinidos inspirados en entrenadores míticos de la saga. 
 
+A la hora de realizar los pedidos, también se intenta que sea lo más inmersivo posible para que acompañe a toda la experiencia. Para ello, los pedidos se hacen a través de pantallas automáticas diseñadas para que parezcan un "PC Pokémon" (el clásico ordenador de los juegos).
 
+Por último, utilizan un sistema de recompensas en forma de "tarjeta de entrenador". Con cada visita, el cliente consigue una "medalla de gimnasio" y, al reunir 8 medallas (como en los videojuegos de la saga), recibe un entrante gratis.
+
+Enlace al repositorio del caso B, Pogo Ramen: [Repositorio Caso B](https://github.com/Mercenari23/UX_CaseStudy/blob/master/README.md)
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
