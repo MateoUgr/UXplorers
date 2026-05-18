@@ -469,7 +469,7 @@ Para diferenciarse de su competencia, que presentan aglromeraciones y "gimmicks"
 
 Por último, cabe destacar que su principal propuesta de valor a nivel de diseño es la inclusión. Desarrollan un sistema web pensado para todos: colores aptos para personas con daltonismo, una carta con filtros muy claros para alérgenos y un sistema de reservas online fácil e intuitivo.
 
-Enlace al repositorio del caso B, : [Repositorio Caso B](https://github.com/RVR05/UX_CaseStudy/tree/master)
+Enlace al repositorio del caso B, Rakuin Ramen: [Repositorio Caso B](https://github.com/RVR05/UX_CaseStudy/tree/master)
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
