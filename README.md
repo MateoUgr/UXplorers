@@ -514,9 +514,16 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
+Para que nuestros usuarios puedan realizar esta prueba sobre nuestra web (el caso A) y la web de los compañeros (caso B), vamos a utilizar GazeMapping que es una herramienta que permite evaluar el seguimiento ocular sobre elementos visuales estáticos como lo son los elementos de las webs a analizar.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Este análisis nos servirá para analizar en profundidad si los usuarios se fijan visualmente en las partes que hemos querido resaltar. Estas partes son nuestras Zonas de Interés (POI) que describimos a continuación:
+(POIS)
 
+Para realizar este apartado fue necesario instalar GazeMapping localmente, convertir nuestras páginas principales y las del caso B con FireShot para poder importarlas en la herramienta. 
+
+En la pestaña correspondiente añadimos los puntos de interés mencionados anteriormente para saber si los usuarios se fijan en ellos correctamente.
+
+Por último finalizamos la sesión y repetimos el proceso con el resto de usuarios para extraer posteriormente el mapa de calor y sacar conclusiones.
 
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
