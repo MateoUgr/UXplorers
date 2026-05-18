@@ -484,7 +484,14 @@ Enlace al repositorio del caso B, Pogo Ramen: [Repositorio Caso B](https://githu
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para evaluar la usabilidad de los dos casos propuestos (Seda Coffe como Caso A y Pogo como Caso B) se han planificado tres tipos de pruebas complementarias: A/B Testing, cuestionario SUS y Eye Tracking. Estas técnicas nos permitirán obtener una visión cuantitativa y cualitativa de la experiencia de usuario, analizando desde la realización de tareas o la percepción de la usabilidad y el comportamiento visual.
+<br>
+En primer lugar, se realizará una prueba A/B Testing, comparando directamente ambos casos. Pidiendo a los usuarios que lleven a cabo un conjunto de tareas. El objetivo es observar diferencias en aspectos como la facilidad de uso, la tasa de éxito y los posibles errores cometidos.
+<br>
+A continuación, tras interactuar con ambos sistemas, los participantes rellenarán un cuestionario SUS. Este cuestionario nos permitirá obtener una puntuación global de usabilidad percibida y nos permitirá comprar de forma estandarizada la percepción de los usuarios sobre Seda Coffee y Pogo.
+<br>
+Por último, se llevará a cabo una prueba de Eye Tracking, con el objetivo de analizar el comportamiento visual de los usuarios durante la interacción. Esta técnica nos permitirá identificar qué elementos de la interfaz captan más atención o si los usuarios siguen una ruta visual adecuada. En este caso, la prueba se aplicará al Caso B (Pogo) para analizar cómo los usuarios navegan por la interfaz y dónde concentran su atención.
+
 
 
 
