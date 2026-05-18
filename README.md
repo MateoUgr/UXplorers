@@ -469,7 +469,7 @@ A la hora de realizar los pedidos, también se intenta que sea lo más inmersivo
 
 Por último, utilizan un sistema de recompensas en forma de "tarjeta de entrenador". Con cada visita, el cliente consigue una "medalla de gimnasio" y, al reunir 8 medallas (como en los videojuegos de la saga), recibe un entrante gratis.
 
-Enlace al repositorio del caso B, Pogo Ramen: [Repositorio Caso B](https://github.com/Mercenari23/UX_CaseStudy/blob/master/README.md)
+Enlace al repositorio del caso B, Pogo Ramen: [Repositorio Caso B](https://github.com/Mercenari23/UX_CaseStudy/tree/master)
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
